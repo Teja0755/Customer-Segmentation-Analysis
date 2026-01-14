@@ -59,12 +59,6 @@ Customer behavior is constantly evolving, making it crucial for businesses to **
 - Reduced operational inefficiencies by targeting high-value customers effectively.  
 <br>
 
-## 📢 Contributors
-- Tejaswini Kshirsagar
-- Neha Bharambe
-- Pranit Patil
-<br>
-
 
 ## 🔗 References
 - Customer Segmentation Dataset
